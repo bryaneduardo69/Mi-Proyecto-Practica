@@ -32,6 +32,7 @@ Lo más importante que aprendí de Git es...
 **Fecha:** [Hoy]
 ```
 19-02-2026
+xd
 ---
 ## Repositorio de ejercicios
 
